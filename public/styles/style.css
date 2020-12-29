@@ -1,0 +1,32 @@
+.students-table {
+    width: 500px;
+    height: 300px;
+}
+
+th, td {
+    border: 1px solid #000;
+}
+tfoot td {
+    text-align: right;
+    font-weight: bold;
+}
+
+.students-form {
+    margin-top: 2rem;
+}
+
+.students-form__field {
+    display: block;
+    margin-bottom: .5rem;
+}
+
+.students-form__label {
+    display: inline-block;
+    width: 3.8rem;
+    text-align: right;
+    padding-right: .5rem;
+}
+
+.students-table__btn {
+    margin: 0 .5rem;
+}

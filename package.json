@@ -1,0 +1,22 @@
+{
+  "name": "students-list",
+  "version": "1.0.0",
+  "description": "Students list",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "keywords": [
+    "NodeJs",
+    "Express",
+    "Bootstrap",
+    "Jquery",
+    "Ajax"
+  ],
+  "author": "Nata Boika",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
